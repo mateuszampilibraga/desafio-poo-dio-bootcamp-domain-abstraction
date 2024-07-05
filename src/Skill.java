@@ -1,0 +1,16 @@
+public enum Skill {
+    HTML,
+    CSS,
+    JavaScript,
+    React,
+    Angular,
+    Python,
+    Java,
+    C,
+    Agile,
+    R,
+    SQL,
+    Machine_Learning,
+    penetration_testing,
+    security_protocols,
+}
