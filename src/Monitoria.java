@@ -9,6 +9,7 @@ public class Monitoria extends Conteudos{
         this.description = description;
         this.date = date;
         this.skills = skills;
+        this.totalXP = calculateXP(XP, duration);
 
     }
 

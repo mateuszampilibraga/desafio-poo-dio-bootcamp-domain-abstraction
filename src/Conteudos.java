@@ -1,5 +1,5 @@
 public class Conteudos extends Item{
-    private final double XP = 20;
+    protected final double XP = 20;
     protected int duration;
     protected Skill skills;
     double totalXP = calculateXP(XP, duration);
