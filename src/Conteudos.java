@@ -1,9 +1,12 @@
-import java.util.*;
-
-
 public class Conteudos extends Item{
-    final double XP = 20;
+    private final double XP = 20;
     protected int duration;
-    protected List<Skill> skills;
+    protected Skill skills;
+    double totalXP = calculateXP(XP, duration);
+
+    public double calculateXP(double xp,int duration ){
+        double totalXP = xp * duration;
+        return totalXP;
+    }
 
 }

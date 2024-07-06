@@ -10,7 +10,8 @@ public enum Skill {
     Agile,
     R,
     SQL,
-    Machine_Learning,
-    penetration_testing,
-    security_protocols,
+    MachineLearning,
+    PenetrationTesting,
+    SecurityProtocols,
+    SoftSkill,
 }
