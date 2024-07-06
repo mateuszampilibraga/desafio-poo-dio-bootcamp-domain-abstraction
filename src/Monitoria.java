@@ -16,12 +16,7 @@ public class Monitoria extends Conteudos{
     @Override
     public String toString() {
         return "Monitoria{" +
-                "duration=" + duration +
-                ", skills=" + skills +
-                ", totalXP=" + totalXP +
                 ", name='" + name + '\'' +
-                ", description='" + description + '\'' +
-                ", date=" + date +
                 '}';
     }
 }

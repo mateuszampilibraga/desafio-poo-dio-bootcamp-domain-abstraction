@@ -13,12 +13,7 @@ public class Lab extends Conteudos{
     @Override
     public String toString() {
         return "Lab{" +
-                "duration=" + duration +
-                ", skills=" + skills +
-                ", totalXP=" + totalXP +
                 ", name='" + name + '\'' +
-                ", description='" + description + '\'' +
-                ", date=" + date +
                 '}';
     }
 }

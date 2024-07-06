@@ -21,13 +21,7 @@ public class Curso extends Conteudos{
     @Override
     public String toString() {
         return "Curso{" +
-                "finalDate=" + finalDate +
-                ", duration=" + duration +
-                ", skills=" + skills +
-                ", totalXP=" + totalXP +
                 ", name='" + name + '\'' +
-                ", description='" + description + '\'' +
-                ", date=" + date +
                 '}';
     }
 }

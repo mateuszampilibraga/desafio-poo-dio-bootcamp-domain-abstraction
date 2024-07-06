@@ -1,3 +1,6 @@
+import java.awt.*;
+import java.util.List;
+
 public class Conteudos extends Item{
     protected final double XP = 20;
     protected int duration;
@@ -8,5 +11,6 @@ public class Conteudos extends Item{
         double totalXP = xp * duration;
         return totalXP;
     }
+
 
 }
