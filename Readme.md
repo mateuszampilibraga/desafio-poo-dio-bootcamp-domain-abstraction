@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém a solução para o desafio "Aprendendo na Prática o Paradigma de Orientação a Objetos", co-criado com a Digital Innovation One e disponibilizado de forma gratuita para a comunidade de desenvolvedores Java. O objetivo principal é colocar em prática os principais conceitos da Programação Orientada a Objetos (POO) através de um projeto Java.
+Este repositório contém a solução para o desafio ["Aprendendo na Prática o Paradigma de Orientação a Objetos"](https://github.com/cami-la/desafio-poo-dio.git), co-criado com a Digital Innovation One e disponibilizado de forma gratuita para a comunidade de desenvolvedores Java. O objetivo principal é colocar em prática os principais conceitos da Programação Orientada a Objetos (POO) através de um projeto Java.
 
 ## Objetivo
 
